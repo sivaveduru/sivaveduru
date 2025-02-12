@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 🤔 I’m looking for help with AI/ML projects and data science.
 - 💬 Ask me about web development, JavaScript, and open-source contributions.
-- 📫 How to reach me: sivaveduru@example.com
+- 📫 How to reach me: sivaveduru@gmail.com
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## 🛠️ Technologies & Tools
 
-- Languages: JavaScript, Python, HTML, CSS
+- Languages: JavaScript, C#, Python, HTML, CSS
 - Frameworks: React, Node.js, Express, Django
 - Databases: MongoDB, MySQL, PostgreSQL
 - Tools: Git, Docker, Kubernetes, AWS
