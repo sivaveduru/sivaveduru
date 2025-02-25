@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - Languages: JavaScript, C#, Python, HTML, CSS
 - Frameworks: React, Node.js, Express, Django
 - Databases: MongoDB, MySQL, PostgreSQL
-- Tools: Git, Docker, Kubernetes, AWS, Power BI
+- Tools: Git, Docker, Kubernetes, AWS, Power BI, DevOps
 
 ## 📈 GitHub Stats
 
